@@ -266,7 +266,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![Screenshot 2025-04-28 133307](https://github.com/user-attachments/assets/f7ca43ba-e3e1-4be1-a063-a7431d5843d4)
+
  
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
